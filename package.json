@@ -38,7 +38,7 @@
     "qrcode": "./bin/qrcode"
   },
   "dependencies": {
-    "dijkstrajs": "^1.0.1",
+    "dijkstrajs": "^1.0.3",
     "encode-utf8": "^1.0.3",
     "pngjs": "^5.0.0",
     "yargs": "^15.3.1"
